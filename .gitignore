@@ -1,0 +1,6 @@
+.vs
+Debug/
+Release/
+mathlib/Debug
+mathlib/Release
+*.bizhawk
